@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileHello-jniMipsDebugSharedLibraryHello-jniMainC/output.txt for all output for compileHello-jniMipsDebugSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileHello-jniMipsDebugSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileHello-jniMipsDebugSharedLibraryHello-jniMainC/output.txt.

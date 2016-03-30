@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileArmeabi-v7aDebugHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileArmeabi-v7aDebugHello-jniSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileArmeabi-v7aDebugHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileArmeabi-v7aDebugHello-jniSharedLibraryHello-jniMainC/output.txt.

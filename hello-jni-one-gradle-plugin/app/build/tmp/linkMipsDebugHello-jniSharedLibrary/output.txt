@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/linkMipsDebugHello-jniSharedLibrary/output.txt for all output for linkMipsDebugHello-jniSharedLibrary.
+linking libhello-jni.so successful.
+
+Finished linkMipsDebugHello-jniSharedLibrary, see full log file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/linkMipsDebugHello-jniSharedLibrary/output.txt.

@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/linkX86DebugHello-jniSharedLibrary/output.txt for all output for linkX86DebugHello-jniSharedLibrary.
+linking libhello-jni.so successful.
+
+Finished linkX86DebugHello-jniSharedLibrary, see full log file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/linkX86DebugHello-jniSharedLibrary/output.txt.

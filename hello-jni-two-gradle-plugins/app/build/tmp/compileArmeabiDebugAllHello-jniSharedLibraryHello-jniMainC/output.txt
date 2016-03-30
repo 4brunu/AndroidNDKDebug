@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/compileArmeabiDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileArmeabiDebugAllHello-jniSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileArmeabiDebugAllHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/compileArmeabiDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt.

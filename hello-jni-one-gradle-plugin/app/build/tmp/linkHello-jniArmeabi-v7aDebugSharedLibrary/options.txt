@@ -1,0 +1,12 @@
+-shared
+-Wl,-soname,libhello-jni.so
+-o
+/Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/intermediates/binaries/debug/obj/armeabi-v7a/libhello-jni.so
+/Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/hello-jniMainC/35m25y8wsxvk7hb8jzn0tk3x6/hello-jni.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=/Applications/android-sdk/ndk-bundle/platforms/android-23/arch-arm
+-Wl,--build-id
+-no-canonical-prefixes

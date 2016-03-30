@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/compileHello-jniArm64-v8aDebugSharedLibraryHello-jniMainC/output.txt for all output for compileHello-jniArm64-v8aDebugSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileHello-jniArm64-v8aDebugSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/compileHello-jniArm64-v8aDebugSharedLibraryHello-jniMainC/output.txt.

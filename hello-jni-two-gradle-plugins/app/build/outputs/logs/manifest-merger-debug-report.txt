@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:7:3-20:17
+MERGED from [hello-jni-two-gradle-plugins:shared:unspecified] /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/build/intermediates/exploded-aar/hello-jni-two-gradle-plugins/shared/unspecified/AndroidManifest.xml:9:5-13:19
+	android:label
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:12:7-39
+	android:supportsRtl
+		ADDED from [hello-jni-two-gradle-plugins:shared:unspecified] /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/build/intermediates/exploded-aar/hello-jni-two-gradle-plugins/shared/unspecified/AndroidManifest.xml:12:9-35
+	android:fullBackupContent
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:10:7-40
+	android:allowBackup
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:9:7-34
+		REJECTED from [hello-jni-two-gradle-plugins:shared:unspecified] /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/build/intermediates/exploded-aar/hello-jni-two-gradle-plugins/shared/unspecified/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:11:7-41
+	tools:replace
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:8:7-42
+activity#com.example.hellojni.HelloJni
+ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:13:5-19:16
+	android:label
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:14:15-47
+	android:name
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:13:15-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:15:7-18:23
+action#android.intent.action.MAIN
+ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml:17:19-66
+uses-sdk
+INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [hello-jni-two-gradle-plugins:shared:unspecified] /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/build/intermediates/exploded-aar/hello-jni-two-gradle-plugins/shared/unspecified/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/AndroidManifest.xml

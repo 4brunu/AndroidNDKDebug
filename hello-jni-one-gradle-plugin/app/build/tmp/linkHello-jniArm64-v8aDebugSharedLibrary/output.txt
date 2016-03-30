@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/linkHello-jniArm64-v8aDebugSharedLibrary/output.txt for all output for linkHello-jniArm64-v8aDebugSharedLibrary.
+linking libhello-jni.so successful.
+
+Finished linkHello-jniArm64-v8aDebugSharedLibrary, see full log file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/linkHello-jniArm64-v8aDebugSharedLibrary/output.txt.

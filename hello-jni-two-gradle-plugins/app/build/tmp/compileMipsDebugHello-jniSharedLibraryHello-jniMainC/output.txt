@@ -1,0 +1,4 @@
+See file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/compileMipsDebugHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileMipsDebugHello-jniSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileMipsDebugHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/compileMipsDebugHello-jniSharedLibraryHello-jniMainC/output.txt.
