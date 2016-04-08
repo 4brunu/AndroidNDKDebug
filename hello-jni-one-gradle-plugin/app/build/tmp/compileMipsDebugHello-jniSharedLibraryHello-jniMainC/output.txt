@@ -1,4 +1,4 @@
-See file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileMipsDebugHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileMipsDebugHello-jniSharedLibraryHello-jniMainC.
+See file:///Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/tmp/compileMipsDebugHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileMipsDebugHello-jniSharedLibraryHello-jniMainC.
 compiling hello-jni.c successful.
 
-Finished compileMipsDebugHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileMipsDebugHello-jniSharedLibraryHello-jniMainC/output.txt.
+Finished compileMipsDebugHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/tmp/compileMipsDebugHello-jniSharedLibraryHello-jniMainC/output.txt.

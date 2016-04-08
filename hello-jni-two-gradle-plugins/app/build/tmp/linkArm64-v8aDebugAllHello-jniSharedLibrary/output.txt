@@ -1,4 +1,0 @@
-See file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/linkArm64-v8aDebugAllHello-jniSharedLibrary/output.txt for all output for linkArm64-v8aDebugAllHello-jniSharedLibrary.
-linking libhello-jni.so successful.
-
-Finished linkArm64-v8aDebugAllHello-jniSharedLibrary, see full log file:///Users/bruno.coelho/Downloads/android-ndk-master%202/hello-jni/app/build/tmp/linkArm64-v8aDebugAllHello-jniSharedLibrary/output.txt.

@@ -1,4 +1,4 @@
-See file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileX86_64DebugHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileX86_64DebugHello-jniSharedLibraryHello-jniMainC.
+See file:///Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/tmp/compileX86_64DebugHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileX86_64DebugHello-jniSharedLibraryHello-jniMainC.
 compiling hello-jni.c successful.
 
-Finished compileX86_64DebugHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/compileX86_64DebugHello-jniSharedLibraryHello-jniMainC/output.txt.
+Finished compileX86_64DebugHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/tmp/compileX86_64DebugHello-jniSharedLibraryHello-jniMainC/output.txt.

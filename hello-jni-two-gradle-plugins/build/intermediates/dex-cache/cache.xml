@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/build/intermediates/exploded-aar/hello-jni-two-gradle-plugins/shared/unspecified/jars/classes.jar"
+        jar="/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-two-gradle-plugins/app/build/intermediates/exploded-aar/hello-jni-two-gradle-plugins/shared/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="9f372b4188cf28f75d26719efa6502a2ee8c8cdc">
-        <dex dex="/Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/build/intermediates/pre-dexed/debug/hello-jni-two-gradle-plugins-shared-unspecified_059431f62c82ffe4cb7e0b292b64b4ae4315e0f4.jar" />
+        sha1="1404b011ee4c22600c6ea31d0010406cd038cb0e">
+        <dex dex="/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-two-gradle-plugins/app/build/intermediates/pre-dexed/debug/hello-jni-two-gradle-plugins-shared-unspecified_4ca04eb26d1355c76d4546adb893457f014f6606.jar" />
     </item>
 
 </items>

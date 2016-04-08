@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
-        "source": "/Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

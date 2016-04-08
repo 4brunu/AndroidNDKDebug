@@ -1,8 +1,8 @@
 -shared
 -Wl,-soname,libhello-jni.so
 -o
-/Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/intermediates/binaries/debug/obj/arm64-v8a/libhello-jni.so
-/Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/intermediates/objectFiles/arm64-v8aDebugHello-jniSharedLibrary/hello-jniMainC/35m25y8wsxvk7hb8jzn0tk3x6/hello-jni.o
+/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/intermediates/binaries/debug/obj/arm64-v8a/libhello-jni.so
+/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/intermediates/objectFiles/arm64-v8aDebugHello-jniSharedLibrary/hello-jniMainC/8gltqb227afmavyh6ebm2c4ju/hello-jni.o
 -Wl,--no-undefined
 -Wl,-z,noexecstack
 -Wl,-z,relro

@@ -1,4 +1,4 @@
-See file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/linkArmeabiDebugHello-jniSharedLibrary/output.txt for all output for linkArmeabiDebugHello-jniSharedLibrary.
+See file:///Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/tmp/linkArmeabiDebugHello-jniSharedLibrary/output.txt for all output for linkArmeabiDebugHello-jniSharedLibrary.
 linking libhello-jni.so successful.
 
-Finished linkArmeabiDebugHello-jniSharedLibrary, see full log file:///Users/bruno.coelho/Desktop/JNITest/hello-jni-one-gradle-plugin/app/build/tmp/linkArmeabiDebugHello-jniSharedLibrary/output.txt.
+Finished linkArmeabiDebugHello-jniSharedLibrary, see full log file:///Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-one-gradle-plugin/app/build/tmp/linkArmeabiDebugHello-jniSharedLibrary/output.txt.

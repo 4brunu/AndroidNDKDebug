@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/bruno.coelho/Desktop/JNITest/hello-jni-two-gradle-plugins/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-two-gradle-plugins/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/bruno.coelho/Developer/AndroidNDKDebug/hello-jni-two-gradle-plugins/app/src/debug/jniLibs"/></dataSet></merger>
